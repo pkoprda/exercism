@@ -1,1 +1,3 @@
-# exercism
+# Exercism
+
+## Exercises written in R
